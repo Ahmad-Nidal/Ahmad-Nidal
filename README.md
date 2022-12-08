@@ -5,33 +5,33 @@
 <!-- - 📫 How to reach me ... -->
 
 Skills and Tools I'm interesting in:
-C#
-.Net Core
-EF Core
-ASP.NET Core
-ABP Framework
-SQL
-SQL Server
+- C#
+- .Net Core
+- EF Core
+- ASP.NET Core
+- ABP Framework
+- SQL
+- SQL Server
 
-HTML
-CSS
-Bootstrap
-JavaScript
-REACT
-Blazor
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
+- REACT
+- Blazor
 
-VS Code
-Visual Studio
-Git
-GitHub
-Docker
-Linux
+- VS Code
+- Visual Studio
+- Git
+- GitHub
+- Docker
+- Linux
 
-Code Principles
-Design Patterns
-Algorithms
-Data Structers
-Problem Solving
+- Code Principles
+- Design Patterns
+- Algorithms
+- Data Structers
+- Problem Solving
 
 <!---
 Ahmad-Nidal/Ahmad-Nidal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
