@@ -12,6 +12,7 @@ Skills and Tools I'm interesting in:
 - ABP Framework
 - SQL
 - SQL Server
+<br>
 
 - HTML
 - CSS
@@ -19,13 +20,15 @@ Skills and Tools I'm interesting in:
 - JavaScript
 - REACT
 - Blazor
+<br>
 
 - VS Code
 - Visual Studio
 - Git
 - GitHub
 - Docker
-- Linux
+- Linux 
+<br>
 
 - Code Principles
 - Design Patterns
