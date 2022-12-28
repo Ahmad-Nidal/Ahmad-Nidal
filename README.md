@@ -3,8 +3,10 @@
 - 🌱 I’m currently learning ABP framework
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me ... -->
-
-Skills and Tools I'm interesting in:
+## My Repositories
+* [Organized in Notion](https://ahmad-nidal-dev.notion.site/c0b6a5eb38ee4456a6d36d29f35a84e0?v=303409716c744a228c695ea72d65d2f2)
+### Skills and Tools I'm interesting in:
+#### Backend (main)
 - C#
 - .Net Core
 - EF Core
@@ -12,31 +14,23 @@ Skills and Tools I'm interesting in:
 - ABP Framework
 - SQL
 - SQL Server
-<br>
-
+#### Frontend
 - HTML
 - CSS
 - Bootstrap
 - JavaScript
 - REACT
 - Blazor
-<br>
-
+#### Tools
 - VS Code
 - Visual Studio
 - Git
 - GitHub
 - Docker
 - Linux 
-<br>
-
+#### CS
 - Code Principles
 - Design Patterns
 - Algorithms
 - Data Structers
 - Problem Solving
-
-<!---
-Ahmad-Nidal/Ahmad-Nidal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
