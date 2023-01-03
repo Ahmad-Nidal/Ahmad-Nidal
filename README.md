@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ahmad Nidal | @Ahmad-Nidal
-- 👀 I’m interested in back-end web development using .net core technologies (<b>C#, ASP.NET Core 6 WebAPI & EF Core 6</b>).
-- 🌱 I’m currently learning ABP framework
+- 👀 I’m interested in back-end web development using .net core technologies.
+- 🌱 I’m currently working on my skills in (<b>C# 10, ASP.NET Core 6 WebAPI & EF Core 6</b>)
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me
   - My Linkedin profile: [Ahmad-Nidal](https://www.linkedin.com/in/ahmad-nidal/)
@@ -10,10 +10,10 @@
 ### Skills and Tools I'm interesting in:
 #### Backend (main)
 - C#
-- .Net Core
+- .Net
 - EF Core
-- ASP.NET Core
-- ABP Framework
+- ASP.NET Core WebAPI
+- ABP Framework (ASP.NET Boilerplate)
 - SQL
 - SQL Server
 #### Frontend
@@ -28,6 +28,7 @@
 #### Tools
 - VS Code
 - Visual Studio
+- Rider
 - Git
 - GitHub
 - Docker
