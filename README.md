@@ -4,7 +4,7 @@
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me
   - My Linkedin profile: [Ahmad-Nidal](https://www.linkedin.com/in/ahmad-nidal/)
-  - My personal Email: [ahmadnidal.dr@gmail.com](mailto:ahmadnidal.dr@gmail.com)
+  - My business Email: [contact@ahmad-nidal.com](mailto:contact@ahmad-nidal.com)
 ## My Repositories
 * [Organized in Notion](https://ahmad-nidal-dev.notion.site/c0b6a5eb38ee4456a6d36d29f35a84e0?v=303409716c744a228c695ea72d65d2f2)
 ### Skills and Tools I'm interesting in:
