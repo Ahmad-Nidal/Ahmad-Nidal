@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ahmad Nidal | @Ahmad-Nidal
-- 👀 I’m a back-end web development.
-- 🌱 I’m currently working on my skills in (<b>C# & Python</b>)
+- 👀 I’m a back-end web developer.
+<!-- - 🌱 I’m currently working on my skills in (<b>....</b>) -->
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me
   - My Linkedin profile: [Ahmad-Nidal](https://www.linkedin.com/in/ahmad-nidal/)
@@ -12,13 +12,16 @@
 - ASP.NET Core
 - ASP.NET Core WebAPI
 - Eintity Fraework Core
+- <b>ABP Framework</b>
 - SQL Server
+<!-- 
 #### Python Back End Development
 - Python
 - Django
 - Django Rest Framework
 - Django ORM
 - PostgreSQL
+ -->
 #### Tools
 - Git
 - Docker
