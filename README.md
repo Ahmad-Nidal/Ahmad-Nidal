@@ -1,34 +1,16 @@
-- 👋 Hi, I’m Ahmad Nidal | @Ahmad-Nidal
-- 👀 I’m a back-end web developer.
-<!-- - 🌱 I’m currently working on my skills in (<b>....</b>) -->
-<!-- - 💞️ I’m looking to collaborate on ... -->
-- 📫 How to reach me
-  - My Linkedin profile: [Ahmad-Nidal](https://www.linkedin.com/in/ahmad-nidal/)
-  - My business Email: [contact@ahmad-nidal.com](mailto:contact@ahmad-nidal.com)
-  - Visit my website [ahmad-nidal.com](http://www.ahmad-nidal.com)
-### I'm interested in:
-#### .Net Back End Development
-- C#
-- ASP.NET Core
-- ASP.NET Core WebAPI
-- Eintity Fraework Core
-- <b>ABP Framework</b>
-- SQL Server
-<!-- 
-#### Python Back End Development
-- Python
-- Django
-- Django Rest Framework
-- Django ORM
-- PostgreSQL
- -->
-#### Tools
-- Git
-- Docker
-- Linux
-#### CS
-- Design Principles
-- Design Patterns
-- Algorithms
-- Data Structers
-- Problem Solving
+
+مهندس برمجيات ينهض بأمته | Software Eng | Back End Developer | ASP.Net Core | ABP Framework
+
+مهندس برمجيات مسلم عربي نهم لعلوم الحاسوب يسعى ليكون له سهم في نهضة أمته
+
+خبرتي وعملي الآن في c#, ASP.NET Core & ABP Framework مع شركة ديفناس
+
+وطالب بكالوريوس بتخصص علوم الحاسوب 
+
+وطالب علم شرعي
+
+والحمد لله
+
+موقعي الشخصي: ahmad-nidal.com
+
+حسابي على لينكد ان: https://www.linkedin.com/in/ahmad-nidal/
