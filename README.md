@@ -1,13 +1,9 @@
 
-مهندس برمجيات ينهض بأمته | Software Eng | Back End Developer | ASP.Net Core | ABP Framework
-
-مهندس برمجيات مسلم عربي نهم لعلوم الحاسوب يسعى ليكون له سهم في نهضة أمته
+مهندس برمجيات مسلم عربي محب لعلوم الحاسوب يسعى ليكون له سهم في نهضة أمته | Software Eng | Back End Developer | ASP.Net Core | ABP Framework
 
 خبرتي وعملي الآن في c#, ASP.NET Core & ABP Framework مع شركة ديفناس
 
 وطالب بكالوريوس بتخصص علوم الحاسوب 
-
-وطالب علم شرعي
 
 والحمد لله
 
